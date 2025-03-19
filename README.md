@@ -1,4 +1,4 @@
-# Teleobjective Synthesis for Automated Optical System Design
+# Teleobjective Synthesis
 
 ## Overview
 This repository contains a course assignment for the “Automated Optical System Design” course at BMSTU. The project involves synthesizing a teleobjective optical system using a Galilean telescopic system (ТСГ) combined with a focusing objective (ФО). The goal is to design an optical system that meets specific performance criteria while maintaining a compact form factor.
